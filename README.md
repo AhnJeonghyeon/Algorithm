@@ -4,3 +4,5 @@
 3. 데이터분석 알고리즘
 4. 기타
 5. introduction to algorithm
+
+https://blog.naver.com/ajh794/
